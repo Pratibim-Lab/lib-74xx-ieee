@@ -1,0 +1,17 @@
+{
+  "id": "74xx_IEEE/74426:74426",
+  "name": "74426",
+  "library": "74xx_IEEE",
+  "file": "74xx_IEEE.kicad_symdir/74426.kicad_sym",
+  "description": "",
+  "datasheet": "",
+  "keywords": "",
+  "footprint": "",
+  "extends": "74126",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xx-ieee@master/parts/74426/",
+  "part_path": "parts/74426",
+  "symbol_file": "parts/74426/74426.kicad_sym",
+  "source_library": "74xx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:21:32.964Z"
+}

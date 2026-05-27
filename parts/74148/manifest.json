@@ -1,0 +1,17 @@
+{
+  "id": "74xx_IEEE/74148:74148",
+  "name": "74148",
+  "library": "74xx_IEEE",
+  "file": "74xx_IEEE.kicad_symdir/74148.kicad_sym",
+  "description": "",
+  "datasheet": "",
+  "keywords": "",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xx-ieee@master/parts/74148/",
+  "part_path": "parts/74148",
+  "symbol_file": "parts/74148/74148.kicad_sym",
+  "source_library": "74xx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:20:52.197Z"
+}

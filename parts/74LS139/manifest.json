@@ -1,0 +1,17 @@
+{
+  "id": "74xx_IEEE/74LS139:74LS139",
+  "name": "74LS139",
+  "library": "74xx_IEEE",
+  "file": "74xx_IEEE.kicad_symdir/74LS139.kicad_sym",
+  "description": "Dual Decoder 1 of 4, Active low outputs",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf",
+  "keywords": "TTL DECOD4",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xx-ieee@master/parts/74LS139/",
+  "part_path": "parts/74LS139",
+  "symbol_file": "parts/74LS139/74LS139.kicad_sym",
+  "source_library": "74xx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:22:00.855Z"
+}

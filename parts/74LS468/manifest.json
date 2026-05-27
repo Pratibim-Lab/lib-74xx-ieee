@@ -1,0 +1,17 @@
+{
+  "id": "74xx_IEEE/74LS468:74LS468",
+  "name": "74LS468",
+  "library": "74xx_IEEE",
+  "file": "74xx_IEEE.kicad_symdir/74LS468.kicad_sym",
+  "description": "",
+  "datasheet": "",
+  "keywords": "",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-74xx-ieee@master/parts/74LS468/",
+  "part_path": "parts/74LS468",
+  "symbol_file": "parts/74LS468/74LS468.kicad_sym",
+  "source_library": "74xx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:22:59.155Z"
+}
